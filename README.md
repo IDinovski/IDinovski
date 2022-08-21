@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ <img align ="left" alt="htmlIcon" width="35px" src="images/html.png"/>
+ <img align ="left" alt="cssIcon" width="35px" src="images/css.png"/>
+ <img align ="left" alt="javascriptIcon" width="35px" src="images/javascript.png"/>
+ <img align ="left" alt="angularIcon" width="35px" src="images/angular.png"/>
+ <img align ="left" alt="reactIcon" width="35px" src="images/react.png"/>
+ <img align ="left" alt="nodejsIcon" width="35px" src="images/nodejs.png"/>
+ <img align ="left" alt="bootStrapIcon" width="35px" src="images/bootstrap.png"/>
