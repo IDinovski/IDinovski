@@ -28,10 +28,11 @@ Here are some ideas to get you started:
 
 <p align="center"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=IDinovski&theme=tokyonight&layout=compact"
 /></p>
+<div style="display: flex; flex-direction: row;">
+ <img align="left" style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api?username=IDinovski&show_icons=true&theme=tokyonight" />
+ <img align="right" style="height: auto; width: 45%;" class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=IDinovski&theme=tokyonight" alt="mystreak" />
+</div>
 
-
-![IDinovski's github stats](https://github-readme-stats.vercel.app/api?username=IDinovski&show_icons=true&theme=tokyonight)
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=IDinovski&theme=tokyonight" alt="mystreak"/>
 
 
  
