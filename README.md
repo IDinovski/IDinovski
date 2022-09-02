@@ -1,4 +1,4 @@
-### Hi there 👋
+# <h1 align="center">Hi there 👋</h1>
 
 <!--
 **IDinovski/IDinovski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- <img align ="left" alt="htmlIcon" width="35px" src="images/html.png"/>
- <img align ="left" alt="cssIcon" width="35px" src="images/css.png"/>
- <img align ="left" alt="javascriptIcon" width="35px" src="images/javascript.png"/>
- <img align ="left" alt="angularIcon" width="35px" src="images/angular.png"/>
- <img align ="left" alt="reactIcon" width="35px" src="images/react.png"/>
- <img align ="left" alt="nodejsIcon" width="35px" src="images/nodejs.png"/>
- <img align ="left" alt="bootStrapIcon" width="35px" src="images/bootstrap.png"/>
+<h2 align="center"> Technologies which i use: </h2>
+<p align="center"> 
+ <img  alt="htmlIcon" width="35px" src="images/html.png"/>
+ <img  alt="cssIcon" width="35px" src="images/css.png"/>
+ <img  alt="javascriptIcon" width="35px" src="images/javascript.png"/>
+ <img  alt="angularIcon" width="35px" src="images/angular.png"/>
+ <img  alt="reactIcon" width="35px" src="images/react.png"/>
+ <img  alt="nodejsIcon" width="35px" src="images/nodejs.png"/>
+ <img  alt="bootStrapIcon" width="35px" src="images/bootstrap.png"/>
+ 
+</p>
+
+<p align="center"><img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=IDinovski&theme=tokyonight&layout=compact"
+/></p>
+
+
+![IDinovski's github stats](https://github-readme-stats.vercel.app/api?username=IDinovski&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=IDinovski&theme=tokyonight" alt="mystreak"/>
+
+
+ 
